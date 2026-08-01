@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/enigmacxenosx">
-    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=900&height=44&lines=Enosh%20Yeswa%20is%20a%20passionate%20tech%20founder%20from%20Kenya%2C%20fully%20equipped%20with%20AI%20and%20web%20development%20skills.%20He's%20the%20mind%20behind%20Enosx%20Technologies%2C%20chasing%20his%20goal%20of%20building%20cutting-edge%20SaaS%20platforms.%20To%20know%20more%20about%20him%20you%20can%20visit%20his%20portfolio." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=900&height=44&lines=Founder%20of%20Enosx%20Technologies.;Building%20AI%20and%20Web%20Platforms.;Passionate%20about%20Tech%20and%20SaaS." alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 ### 🔗 Connect With Me

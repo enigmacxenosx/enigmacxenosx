@@ -41,11 +41,14 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/enosx_tech">
+  <a href="https://www.instagram.com/engima_cx">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://wa.me/2540798303978">
+  <a href="https://wa.me/254798303978">
     <img src="https://img.shields.io/badge/WhatsApp-25CA05?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://www.facebook.com/enosx aura">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://enosxai.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio">

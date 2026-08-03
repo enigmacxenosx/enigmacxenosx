@@ -18,7 +18,7 @@
 - 🌱 I'm currently learning **System Design & Cloud Architecture**
 - 👯 I'm looking to collaborate on **Enosx E-commerce & AI Projects**
 - 💬 Ask me about **AI, Web Development, Tech Startups, SaaS**
-- 📫 How to reach me: **enigmacx450@gmail.com**
+- 📫 How to reach me: **Enosxtech@gmail.com**
 - ⚡ Fun fact: **Tech is in my genes, and Jesus is LORD!**
 
 ### 🛠️ Tech Stack
@@ -53,7 +53,7 @@
   <a href="https://enosxai.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:enigmacx450@gmail.com">
+  <a href="mailto:Enosxtech@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>

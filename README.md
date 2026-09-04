@@ -31,34 +31,40 @@ const enosh = {
 };
 ```
 
-## What I’m building
+## Pinned repositories
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>01 · Enosx AI</h3>
-      <p>An evolving AI and technology platform for practical tools, experiments, and ambitious product ideas.</p>
-      <a href="https://github.com/enigmacxenosx/enosxai">Explore project →</a>
+      <p>AI tools, platform experiments, and product work for the Enosx vision.</p>
+      <a href="https://github.com/enigmacxenosx/enosxai"><img src="https://img.shields.io/github/stars/enigmacxenosx/enosxai?style=flat-square&color=16a34a&label=stars" alt="Enosx AI stars" /></a>
+      <a href="https://github.com/enigmacxenosx/enosxai"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>02 · Enosx ecosystem</h3>
-      <p>A growing collection of products and digital experiences built under the Enosx Technologies vision.</p>
-      <a href="https://github.com/enigmacxenosx/enosx-ecosystem">Explore ecosystem →</a>
+      <h3>02 · Enosx E-commerce</h3>
+      <p>A TypeScript-powered commerce build exploring product and shopping experiences.</p>
+      <a href="https://github.com/enigmacxenosx/e-commernce"><img src="https://img.shields.io/github/stars/enigmacxenosx/e-commernce?style=flat-square&color=16a34a&label=stars" alt="Enosx E-commerce stars" /></a>
+      <a href="https://github.com/enigmacxenosx/e-commernce"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 · Enosx Tech Site</h3>
-      <p>The brand platform for sharing the company’s work, direction, and technology services.</p>
-      <a href="https://github.com/enigmacxenosx/enosxtechsite">View project →</a>
+      <h3>03 · Enosx Browser</h3>
+      <p>A browser-focused project exploring tools for a more capable personal web workspace.</p>
+      <a href="https://github.com/enigmacxenosx/ENOSH-BROWSER"><img src="https://img.shields.io/github/stars/enigmacxenosx/ENOSH-BROWSER?style=flat-square&color=16a34a&label=stars" alt="Enosx Browser stars" /></a>
+      <a href="https://github.com/enigmacxenosx/ENOSH-BROWSER"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>04 · Enosh Blog</h3>
-      <p>A personal space for ideas, stories, experiments, and the journey behind the builds.</p>
-      <a href="https://github.com/enigmacxenosx/enosh-blog">Read the project →</a>
+      <h3>04 · Enosx Tech Site</h3>
+      <p>The company platform for sharing Enosx Technologies’ work and direction.</p>
+      <a href="https://github.com/enigmacxenosx/enosxtechsite"><img src="https://img.shields.io/github/stars/enigmacxenosx/enosxtechsite?style=flat-square&color=16a34a&label=stars" alt="Enosx Tech Site stars" /></a>
+      <a href="https://github.com/enigmacxenosx/enosxtechsite"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
     </td>
   </tr>
 </table>
+
+<p align="center"><a href="https://github.com/enigmacxenosx?tab=repositories">View all repositories →</a></p>
 
 ## Tools I use
 
@@ -77,15 +83,15 @@ const enosh = {
   <img src="https://img.shields.io/github/followers/enigmacxenosx?label=FOLLOWERS&style=for-the-badge&color=111827&labelColor=16a34a" alt="GitHub followers" />
 </p>
 
-## GitHub activity
+## GitHub activity dashboard
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=enigmacxenosx&show_icons=true&theme=transparent&title_color=16a34a&text_color=94a3b8&icon_color=16a34a&border_color=1e293b&hide_border=false&count_private=true" alt="Enosh's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmacxenosx&layout=compact&theme=transparent&title_color=16a34a&text_color=94a3b8&border_color=1e293b&hide_border=false&count_private=true" alt="Enosh's most used programming languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmacxenosx&layout=compact&langs_count=8&theme=transparent&title_color=16a34a&text_color=94a3b8&icon_color=16a34a&border_color=1e293b&hide_border=false&count_private=true" alt="Top programming languages used by Enosh" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enigmacxenosx&theme=transparent&ring=16a34a&fire=dc2626&currStreakLabel=16a34a&sideLabels=94a3b8&dates=64748b&border=1e293b" alt="Enosh's GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enigmacxenosx&theme=transparent&ring=16a34a&fire=dc2626&currStreakLabel=16a34a&sideLabels=94a3b8&dates=64748b&border=1e293b&hide_border=false" alt="Enosh's GitHub contribution streak" />
 </p>
 
 <p align="center">

@@ -1,73 +1,99 @@
 <div align="center">
-  <a href="https://github.com/enigmacxenosx">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Enosh%20Yeswa" alt="Hello! I'm Enosh Yeswa" />
-  </a>
 
-  <p>
-    <a href="https://github.com/enigmacxenosx"><img src="https://img.shields.io/badge/GitHub-enigmacxenosx-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-    <a href="https://enosxai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Enosx%20AI-000000?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
-    <a href="mailto:Enosxtech@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:16a34a&height=220&section=header&text=ENOSX&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Build.%20Learn.%20Ship.%20Repeat.&descAlignY=60&descSize=20" alt="ENOSX — Build. Learn. Ship. Repeat." width="100%" />
 
-  <p><strong>Founder · AI builder · Web and SaaS entrepreneur</strong></p>
-  <p>Building practical technology through <strong>Enosx Technologies</strong>.</p>
+# Hey, I’m Enosh Yeswa
+
+### Founder · AI builder · Web & SaaS engineer
+
+I turn ambitious ideas into **useful digital products** through **Enosx Technologies**.
+
+<a href="https://enosxai.vercel.app"><img src="https://img.shields.io/badge/Explore%20Enosx%20AI-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Enosx AI" /></a>
+<a href="https://github.com/enigmacxenosx?tab=repositories"><img src="https://img.shields.io/badge/View%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="View my GitHub work" /></a>
+<a href="mailto:Enosxtech@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's connect by email" /></a>
+
 </div>
 
-## About me
+---
 
-I’m **Enosh Yeswa**, a founder and developer based in **Kenya**. I’m building products across AI, web platforms, e-commerce, and SaaS, with a focus on useful experiences that can grow into reliable businesses.
+## The short version
 
-- Currently building **Enosx AI & Tech Platform**
-- Learning and applying **system design and cloud architecture**
-- Open to collaboration on **AI, e-commerce, and SaaS projects**
-- Ask me about **AI, web development, startups, and product engineering**
-- Contact: **[Enosxtech@gmail.com](mailto:Enosxtech@gmail.com)**
+I’m a founder and developer based in **Kenya**, building at the intersection of **artificial intelligence, web platforms, e-commerce, and SaaS**. I care about turning rough ideas into focused products with a clear purpose, a strong user experience, and room to grow.
 
-## Featured projects
+```ts
+const enosh = {
+  role: "Founder & Product Builder",
+  company: "Enosx Technologies",
+  focus: ["AI", "Web platforms", "SaaS", "E-commerce"],
+  currentlyBuilding: "Enosx AI & Tech Platform",
+  currentlyLearning: ["System design", "Cloud architecture"],
+  basedIn: "Kenya",
+};
+```
 
-| Project | Description |
-| --- | --- |
-| [Enosx AI](https://github.com/enigmacxenosx/enosxai) | AI and technology platform experiments, tools, and product work. |
-| [Enosx Tech Site](https://github.com/enigmacxenosx/enosxtechsite) | Enosx Technologies’ web presence and brand platform. |
-| [Enosx Ecosystem](https://github.com/enigmacxenosx/enosx-ecosystem) | A broader collection of Enosx products and experiments. |
-| [Enosh Blog](https://github.com/enigmacxenosx/enosh-blog) | Personal publishing and editorial work. |
+## What I’m building
 
-[Browse all repositories →](https://github.com/enigmacxenosx?tab=repositories)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · Enosx AI</h3>
+      <p>An evolving AI and technology platform for practical tools, experiments, and ambitious product ideas.</p>
+      <a href="https://github.com/enigmacxenosx/enosxai">Explore project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · Enosx ecosystem</h3>
+      <p>A growing collection of products and digital experiences built under the Enosx Technologies vision.</p>
+      <a href="https://github.com/enigmacxenosx/enosx-ecosystem">Explore ecosystem →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · Enosx Tech Site</h3>
+      <p>The brand platform for sharing the company’s work, direction, and technology services.</p>
+      <a href="https://github.com/enigmacxenosx/enosxtechsite">View project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · Enosh Blog</h3>
+      <p>A personal space for ideas, stories, experiments, and the journey behind the builds.</p>
+      <a href="https://github.com/enigmacxenosx/enosh-blog">Read the project →</a>
+    </td>
+  </tr>
+</table>
 
-## Tech stack
+## Tools I use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud and DevOps" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,vite,tailwind,postgres,supabase,docker,aws,vercel,git&perline=6" alt="TypeScript, React, Node.js, Python, Vite, Tailwind CSS, PostgreSQL, Supabase, Docker, AWS, Vercel, and Git" />
 </p>
 
-## Connect
+<div align="center">
+  <sub>Product thinking · Clean interfaces · Reliable systems · Continuous learning</sub>
+</div>
+
+## GitHub activity
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=enigmacxenosx&show_icons=true&theme=transparent&title_color=16a34a&text_color=94a3b8&icon_color=16a34a&border_color=1e293b&hide_border=false&count_private=true" alt="Enosh's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmacxenosx&layout=compact&theme=transparent&title_color=16a34a&text_color=94a3b8&border_color=1e293b&hide_border=false&count_private=true" alt="Enosh's most used programming languages" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enigmacxenosx&theme=transparent&ring=16a34a&fire=dc2626&currStreakLabel=16a34a&sideLabels=94a3b8&dates=64748b&border=1e293b" alt="Enosh's GitHub contribution streak" />
+</p>
+
+## Let’s build something meaningful
 
 <p align="center">
   <a href="https://www.instagram.com/engima_cx"><img src="https://img.shields.io/badge/Instagram-engima__cx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://wa.me/254798303978"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="mailto:Enosxtech@gmail.com"><img src="https://img.shields.io/badge/Email-Enosxtech%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:Enosxtech@gmail.com"><img src="https://img.shields.io/badge/Enosxtech%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Enosx Technologies" /></a>
 </p>
-
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enigmacxenosx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Enosh's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmacxenosx&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/tokyonight/enigmacxenosx" alt="GitHub contribution graph" />
-</p>
-
-> “The best way to predict the future is to invent it.” — Alan Kay
 
 <div align="center">
+  <br />
+  <blockquote><strong>“The best way to predict the future is to invent it.”</strong><br />— Alan Kay</blockquote>
+  <br />
   <sub>Tech is in the genes. Jesus is LORD.</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,50:111827,100:0f172a&height=120&section=footer" alt="" width="100%" />

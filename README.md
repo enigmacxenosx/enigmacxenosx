@@ -83,20 +83,30 @@ const enosh = {
   <img src="https://img.shields.io/github/followers/enigmacxenosx?label=FOLLOWERS&style=for-the-badge&color=111827&labelColor=16a34a" alt="GitHub followers" />
 </p>
 
-## GitHub activity dashboard
+## Cyberpunk activity dashboard
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=enigmacxenosx&show_icons=true&theme=transparent&title_color=16a34a&text_color=94a3b8&icon_color=16a34a&border_color=1e293b&hide_border=false&count_private=true" alt="Enosh's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmacxenosx&layout=compact&langs_count=8&theme=transparent&title_color=16a34a&text_color=94a3b8&icon_color=16a34a&border_color=1e293b&hide_border=false&count_private=true" alt="Top programming languages used by Enosh" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=enigmacxenosx&show_icons=true&bg_color=0b0014&title_color=00f0ff&text_color=e8e8ff&icon_color=ff2bd6&border_color=ff2bd6&hide_border=false&count_private=true" alt="Enosh's cyberpunk GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmacxenosx&layout=compact&langs_count=8&bg_color=0b0014&title_color=00f0ff&text_color=e8e8ff&icon_color=ff2bd6&border_color=ff2bd6&hide_border=false&count_private=true" alt="Top programming languages used by Enosh in a cyberpunk theme" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enigmacxenosx&theme=transparent&ring=16a34a&fire=dc2626&currStreakLabel=16a34a&sideLabels=94a3b8&dates=64748b&border=1e293b&hide_border=false" alt="Enosh's GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enigmacxenosx&background=0b0014&ring=00f0ff&fire=ff2bd6&currStreakLabel=00f0ff&sideLabels=e8e8ff&dates=94a3b8&border=ff2bd6&hide_border=false" alt="Enosh's cyberpunk GitHub contribution streak" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enigmacxenosx&theme=github_dark" alt="Enosh's real-time GitHub contribution activity graph" width="95%" />
 </p>
+
+## Latest from the build log
+
+> This section is updated automatically by GitHub Actions from the RSS/Atom feeds configured in the repository variables.
+
+<!-- BLOG-POST-LIST:START -->
+- Configure the `PROFILE_FEEDS` repository variable to display your latest blog posts or YouTube videos here.
+<!-- BLOG-POST-LIST:END -->
+
+<sub>Automation: add comma-separated RSS/Atom URLs to the repository variable <code>PROFILE_FEEDS</code>, then run the <code>Update profile content</code> workflow once. The workflow runs daily afterward.</sub>
 
 ## Let’s build something meaningful
 

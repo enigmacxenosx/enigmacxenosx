@@ -1,126 +1,122 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:16a34a&height=220&section=header&text=ENOSX&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Build.%20Learn.%20Ship.%20Repeat.&descAlignY=60&descSize=20" alt="ENOSX — Build. Learn. Ship. Repeat." width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,100:06b6d4&height=230&section=header&text=ENOSX&fontSize=86&fontColor=ffffff&fontAlignY=38&desc=BUILDING%20THE%20FUTURE%20FROM%20KENYA&descAlignY=62&descSize=17&descColor=67e8f9" alt="ENOSX — Building the future from Kenya" width="100%" />
 
-# Hey, I’m Enosh Yeswa
+# ENOSH YESWA
 
-### Founder · AI builder · Web & SaaS engineer
+### Founder · Product Engineer · AI Builder
 
-I turn ambitious ideas into **useful digital products** through **Enosx Technologies**.
+**I turn ambitious ideas into useful digital products.**
 
-<a href="https://enosxai.vercel.app"><img src="https://img.shields.io/badge/Explore%20Enosx%20AI-16a34a?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Enosx AI" /></a>
-<a href="https://github.com/enigmacxenosx?tab=repositories"><img src="https://img.shields.io/badge/View%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="View my GitHub work" /></a>
-<a href="mailto:Enosxtech@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's connect by email" /></a>
+<a href="https://enosxai.vercel.app"><img src="https://img.shields.io/badge/OPEN%20ENOSX%20AI-06b6d4?style=for-the-badge&logo=vercel&logoColor=050816" alt="Open ENOSX AI" /></a>
+<a href="https://enosxtech.vercel.app"><img src="https://img.shields.io/badge/ENOSX%20TECHNOLOGIES-111827?style=for-the-badge&logo=googlechrome&logoColor=67e8f9" alt="Enosx Technologies" /></a>
+<a href="mailto:Enosxtech@gmail.com"><img src="https://img.shields.io/badge/WORK%20WITH%20ME-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Work with me" /></a>
 
 </div>
 
 ---
 
-## The short version
+## THE SHORT VERSION
 
-I’m a founder and developer based in **Kenya**, building at the intersection of **artificial intelligence, web platforms, e-commerce, and SaaS**. I care about turning rough ideas into focused products with a clear purpose, a strong user experience, and room to grow.
+I’m a founder and developer based in **Kenya**, building at the intersection of **AI, web platforms, e-commerce, and SaaS**. I care about taking an idea from a rough sketch to a focused product with a clear purpose, a strong interface, and room to scale.
 
-```ts
-const enosh = {
-  role: "Founder & Product Builder",
-  company: "Enosx Technologies",
-  focus: ["AI", "Web platforms", "SaaS", "E-commerce"],
-  currentlyBuilding: "Enosx AI & Tech Platform",
-  currentlyLearning: ["System design", "Cloud architecture"],
-  basedIn: "Kenya",
-};
+```text
+┌─ CURRENT SIGNAL ─────────────────────────────────────────────┐
+│  building     ENOSX AI + the Enosx Technologies ecosystem    │
+│  exploring    AI products · cloud architecture · system design│
+│  philosophy   ship useful things, learn in public, repeat    │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-## Pinned repositories
+## WHAT I’M BUILDING
+
+| Focus | Direction |
+|---|---|
+| **ENOSX AI** | A practical AI assistant and application platform |
+| **Digital products** | Fast, thoughtful web experiences that solve real problems |
+| **Enosx Technologies** | A growing technology company and product ecosystem |
+| **Learning in public** | Better systems, better products, one release at a time |
+
+## FEATURED BUILDS
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 · Enosx AI</h3>
-      <p>AI tools, platform experiments, and product work for the Enosx vision.</p>
-      <a href="https://github.com/enigmacxenosx/enosxai"><img src="https://img.shields.io/github/stars/enigmacxenosx/enosxai?style=flat-square&color=16a34a&label=stars" alt="Enosx AI stars" /></a>
-      <a href="https://github.com/enigmacxenosx/enosxai"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 · Enosx E-commerce</h3>
-      <p>A TypeScript-powered commerce build exploring product and shopping experiences.</p>
-      <a href="https://github.com/enigmacxenosx/e-commernce"><img src="https://img.shields.io/github/stars/enigmacxenosx/e-commernce?style=flat-square&color=16a34a&label=stars" alt="Enosx E-commerce stars" /></a>
-      <a href="https://github.com/enigmacxenosx/e-commernce"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 · Enosx Browser</h3>
-      <p>A browser-focused project exploring tools for a more capable personal web workspace.</p>
-      <a href="https://github.com/enigmacxenosx/ENOSH-BROWSER"><img src="https://img.shields.io/github/stars/enigmacxenosx/ENOSH-BROWSER?style=flat-square&color=16a34a&label=stars" alt="Enosx Browser stars" /></a>
-      <a href="https://github.com/enigmacxenosx/ENOSH-BROWSER"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 · Enosx Tech Site</h3>
-      <p>The company platform for sharing Enosx Technologies’ work and direction.</p>
-      <a href="https://github.com/enigmacxenosx/enosxtechsite"><img src="https://img.shields.io/github/stars/enigmacxenosx/enosxtechsite?style=flat-square&color=16a34a&label=stars" alt="Enosx Tech Site stars" /></a>
-      <a href="https://github.com/enigmacxenosx/enosxtechsite"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 01 · ENOSX AI
+AI assistant, platform experiments, and product infrastructure.
+
+<a href="https://github.com/enigmacxenosx/enosxai">VIEW SOURCE →</a> · <a href="https://enosxai.vercel.app">LIVE APP →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · E-COMMERCE HUB
+A Kenyan electronics discovery and price-comparison experience.
+
+<a href="https://github.com/enigmacxenosx/e-commernce">VIEW SOURCE →</a> · <a href="https://enosxtech-hub.vercel.app">LIVE APP →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 · ENOSH BROWSER
+A calm, source-first browser workspace with an Electron desktop shell.
+
+<a href="https://github.com/enigmacxenosx/ENOSH-BROWSER">VIEW SOURCE →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · EXBOOT
+A Windows utility for creating bootable and multi-boot USB media.
+
+<a href="https://github.com/enigmacxenosx/Exboot">VIEW SOURCE →</a>
+
+</td>
+</tr>
 </table>
 
-<p align="center"><a href="https://github.com/enigmacxenosx?tab=repositories">View all repositories →</a></p>
+<p align="center"><a href="https://github.com/enigmacxenosx?tab=repositories"><strong>EXPLORE ALL REPOSITORIES →</strong></a></p>
 
-## Tools I use
+## THE TOOLKIT
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,vite,tailwind,postgres,supabase,docker,aws,vercel,git&perline=6" alt="TypeScript, React, Node.js, Python, Vite, Tailwind CSS, PostgreSQL, Supabase, Docker, AWS, Vercel, and Git" />
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,vite,tailwind,postgres,supabase,docker,aws,vercel,git&perline=6" alt="TypeScript, React, Node.js, Python, Vite, Tailwind CSS, PostgreSQL, Supabase, Docker, AWS, Vercel, and Git" />
 </p>
 
-<div align="center">
-  <sub>Product thinking · Clean interfaces · Reliable systems · Continuous learning</sub>
-</div>
-
-## Live profile pulse
+## GITHUB TELEMETRY
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enigmacxenosx&label=PROFILE%20VIEWS&color=16a34a&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/enigmacxenosx?label=FOLLOWERS&style=for-the-badge&color=111827&labelColor=16a34a" alt="GitHub followers" />
-</p>
-
-## Cyberpunk activity dashboard
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=enigmacxenosx&show_icons=true&bg_color=0b0014&title_color=00f0ff&text_color=e8e8ff&icon_color=ff2bd6&border_color=ff2bd6&hide_border=false&count_private=true" alt="Enosh's cyberpunk GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmacxenosx&layout=compact&langs_count=8&bg_color=0b0014&title_color=00f0ff&text_color=e8e8ff&icon_color=ff2bd6&border_color=ff2bd6&hide_border=false&count_private=true" alt="Top programming languages used by Enosh in a cyberpunk theme" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enigmacxenosx&background=0b0014&ring=00f0ff&fire=ff2bd6&currStreakLabel=00f0ff&sideLabels=e8e8ff&dates=94a3b8&border=ff2bd6&hide_border=false" alt="Enosh's cyberpunk GitHub contribution streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=enigmacxenosx&show_icons=true&hide_border=true&bg_color=050816&title_color=67e8f9&text_color=cbd5e1&icon_color=ec4899&count_private=true" alt="Enosh's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmacxenosx&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=67e8f9&text_color=cbd5e1&icon_color=ec4899" alt="Enosh's most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enigmacxenosx&theme=github_dark" alt="Enosh's real-time GitHub contribution activity graph" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=enigmacxenosx&background=050816&ring=06b6d4&fire=ec4899&currStreakLabel=67e8f9&sideLabels=cbd5e1&dates=94a3b8&border=1e293b" alt="Enosh's GitHub contribution streak" />
 </p>
 
-## Latest from the build log
-
-> This section is updated automatically by GitHub Actions from the RSS/Atom feeds configured in the repository variables.
+## BUILD LOG
 
 <!-- BLOG-POST-LIST:START -->
-- Configure the `PROFILE_FEEDS` repository variable to display your latest blog posts or YouTube videos here.
+- Building, learning, and shipping from Kenya.
 <!-- BLOG-POST-LIST:END -->
 
-<sub>Automation: add comma-separated RSS/Atom URLs to the repository variable <code>PROFILE_FEEDS</code>, then run the <code>Update profile content</code> workflow once. The workflow runs daily afterward.</sub>
-
-## Let’s build something meaningful
+## LET’S CONNECT
 
 <p align="center">
-  <a href="https://www.instagram.com/engima_cx"><img src="https://img.shields.io/badge/Instagram-engima__cx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://wa.me/254798303978"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="mailto:Enosxtech@gmail.com"><img src="https://img.shields.io/badge/Enosxtech%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Enosx Technologies" /></a>
+<a href="mailto:Enosxtech@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Enosxtech%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.instagram.com/engima_cx"><img src="https://img.shields.io/badge/INSTAGRAM-engima__cx-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://wa.me/254798303978"><img src="https://img.shields.io/badge/WHATSAPP-CHAT-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 <div align="center">
-  <br />
-  <blockquote><strong>“The best way to predict the future is to invent it.”</strong><br />— Alan Kay</blockquote>
-  <br />
-  <sub>Tech is in the genes. Jesus is LORD.</sub>
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,50:111827,100:0f172a&height=120&section=footer" alt="" width="100%" />
+> **Build with intention. Ship with courage. Keep learning.**
+
+<sub>Enosx Technologies · Kenya · 2026</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:111827,100:050816&height=120&section=footer" alt="" width="100%" />
+
+</div>

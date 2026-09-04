@@ -70,6 +70,13 @@ const enosh = {
   <sub>Product thinking · Clean interfaces · Reliable systems · Continuous learning</sub>
 </div>
 
+## Live profile pulse
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=enigmacxenosx&label=PROFILE%20VIEWS&color=16a34a&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/enigmacxenosx?label=FOLLOWERS&style=for-the-badge&color=111827&labelColor=16a34a" alt="GitHub followers" />
+</p>
+
 ## GitHub activity
 
 <div align="center">
@@ -79,6 +86,10 @@ const enosh = {
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enigmacxenosx&theme=transparent&ring=16a34a&fire=dc2626&currStreakLabel=16a34a&sideLabels=94a3b8&dates=64748b&border=1e293b" alt="Enosh's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enigmacxenosx&theme=github_dark" alt="Enosh's real-time GitHub contribution activity graph" width="95%" />
 </p>
 
 ## Let’s build something meaningful

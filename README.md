@@ -54,7 +54,7 @@ AI assistant, platform experiments, and product infrastructure.
 ### 02 · E-COMMERCE HUB
 A Kenyan electronics discovery and price-comparison experience.
 
-<a href="https://github.com/enigmacxenosx/e-commernce">VIEW SOURCE →</a> · <a href="https://enosxtech-hub.vercel.app">LIVE APP →</a>
+<a href="https://github.com/enigmacxenosx/enosx-kenya-commerce">VIEW SOURCE →</a> · <a href="https://enosxtech-hub.vercel.app">LIVE APP →</a>
 
 </td>
 </tr>
